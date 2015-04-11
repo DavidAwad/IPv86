@@ -1,22 +1,4 @@
-## OSx86
-
-
-COMMENT @
-Cinchy server
-
-Main program by: S³ <scubed@frontiernet.net>
-Ext routine by: r.c. volgers <r.volgers@hccnet.nl>
-
-Bug reports by:
-Juvenile Delinquent <nervgaz@nervgaz.net> Buffer overflow
-Jonathan Donitz <jon_donitz@hotmail.com> 64k cut-off and
-                                         forgot to reset buffer size
-
-Special thanks to:
-Iczelion <iczelion@galaxycorp.com> for making it Windows 2000 compatible!
-SpaceCommander / ByTeGeiZ <SpaceCommander@ByTeGeiZ.de> for information
-        about the directory browse dialog and long file names and for
-        telling me that ".." worked in the URL.
+## IPv86
 
 Other additions:
 Makes sure that it is the GET command
@@ -24,9 +6,6 @@ Can resume download (tested with Go!Zilla)
 If directory, will redirect to include /
 Recognizes %HH as hexadecimal
 Tells you your IP address and name
-
-Please send me (S³) e-mail!  I like getting responses!
-
 
 How to use:
 
@@ -47,4 +26,3 @@ over a LAN, the computer name.
 
 
 Read more: http://www.intel-assembler.it/portale/5/cinchy-x86-web-server/a-basic-asm-web-server.asp#ixzz3X20H53Hb
-@
