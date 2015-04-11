@@ -1,4 +1,7 @@
-## IPv86
+# IPv86
+
+## WARNING. This is volatile assembly code and will suck to use. 
+### Also May only work on windows... 
 
 Other additions:
 Makes sure that it is the GET command
