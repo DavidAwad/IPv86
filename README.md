@@ -2,7 +2,7 @@
 
 ## WARNING. This is volatile assembly code and will suck to use. 
 ### Also May only work on windows... 
-
+If you're on OSX you can try [this](https://lord.io/blog/2014/assembly-on-osx/)
 Other additions:
 Makes sure that it is the GET command
 Can resume download (tested with Go!Zilla)
